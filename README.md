@@ -1,2 +1,3 @@
-# chat-app-sockets
-ITS150 Project - Chat App Dev
+# Python built-ins, no extra install required
+# socket
+# threading
