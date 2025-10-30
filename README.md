@@ -19,5 +19,5 @@ It demonstrates basic networking concepts for server-client communication.
 - Edelle Lumabi: Server Developer  
 - Jastine Sabado: Network Protocol Manager  
 - Craig Manuel: Client Developer  
-- Xabina Teodoro: UI Enhancer  
+- Xabina Teodoro: Flowchart Developer
 - John Emmanuel Vitug: Documenter / Tester
