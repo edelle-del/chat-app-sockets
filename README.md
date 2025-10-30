@@ -1,9 +1,23 @@
-# Chat Application Development
-Now, another idea on OS will be the Chat Development Application. Now, this can be done with the help
-of Computer Networking. A user can load a chat on the internet that is developed with the help of the
-Socket Concept.
+# Chat Application using Python Sockets
 
-Development Idea:
-1. We have to create the Server-Client Side Architecture using the Socket.
-2. Now, using different Network Protocols, we have to transmit the message.
-3. You have to develop a server in such a way that it will handle multiple clients at the same time
+### Overview
+A simple multi-client chat app built with Python using sockets and threading.  
+It demonstrates basic networking concepts for server-client communication.
+
+### Features
+- Multi-client messaging
+- Nickname support
+- Real-time message broadcasting
+- Connection and disconnection handling
+
+### How to Run
+1. Run `server.py` on one device.
+2. Run `client.py` on other devices and connect to the server’s IP.
+3. Start chatting!
+
+### Group Members
+- Edelle Lumabi: Server Developer  
+- Jastine Sabado: Network Protocol Manager  
+- Craig Manuel: Client Developer  
+- Xabina Teodoro: UI Enhancer  
+- John Emmanuel Vitug: Documenter / Tester
